@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RollDice</string>
+    <string name="lanzar_dado">Lanzar dado</string>
+    <string name="total">Total: %1$d</string>
+    <string name="agregar_dado">+</string>
+    <string name="quitar_dado">-</string>
+</resources>
